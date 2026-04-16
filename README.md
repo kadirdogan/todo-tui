@@ -67,10 +67,10 @@ Inside the task editor:
 
 ## Screenshots
 
-<a href="screenshots/Screenshot_1.png"><img src="screenshots/Screenshot_1.png" width="200"></a>
-<a href="screenshots/Screenshot_6.png"><img src="screenshots/Screenshot_6.png" width="200"></a>
-<a href="screenshots/Screenshot_7.png"><img src="screenshots/Screenshot_7.png" width="200"></a>
-<a href="screenshots/Screenshot_8.png"><img src="screenshots/Screenshot_8.png" width="200"></a>
+<a href="https://raw.githubusercontent.com/kadirdogan/todo-tui/main/screenshots/Screenshot_1.png"><img src="screenshots/Screenshot_1.png" width="200"></a>
+<a href="https://raw.githubusercontent.com/kadirdogan/todo-tui/main/screenshots/Screenshot_6.png"><img src="screenshots/Screenshot_6.png" width="200"></a>
+<a href="https://raw.githubusercontent.com/kadirdogan/todo-tui/main/screenshots/Screenshot_7.png"><img src="screenshots/Screenshot_7.png" width="200"></a>
+<a href="https://raw.githubusercontent.com/kadirdogan/todo-tui/main/screenshots/Screenshot_8.png"><img src="screenshots/Screenshot_8.png" width="200"></a>
 
 ---
 
