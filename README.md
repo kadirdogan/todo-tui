@@ -67,13 +67,13 @@ Inside the task editor:
 
 ## Screenshots
 
-<a href="screenshots/screenshot_1.jpeg"><img src="screenshots/screenshot_1.jpeg" width="800"></a>
+<a href="screenshots/Screenshot_1.png"><img src="screenshots/Screenshot_1.png" width="800"></a>
 
-<a href="screenshots/screenshot_2.jpeg"><img src="screenshots/screenshot_2.jpeg" width="800"></a>
+<a href="screenshots/Screenshot_6.png"><img src="screenshots/Screenshot_6.png" width="800"></a>
 
-<a href="screenshots/screenshot_3.jpeg"><img src="screenshots/screenshot_3.jpeg" width="800"></a>
+<a href="screenshots/Screenshot_7.png"><img src="screenshots/Screenshot_7.png" width="800"></a>
 
-<a href="screenshots/screenshot_4.jpeg"><img src="screenshots/screenshot_4.jpeg" width="800"></a>
+<a href="screenshots/Screenshot_8.png"><img src="screenshots/Screenshot_8.png" width="800"></a>
 
 ---
 
