@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "id": "1712000001000",
+      "title": "OSSC 1.6 FPGA hasarını incele",
+      "note": "Altera Cyclone IV QFP144 — mikroskopla pin 37-42 arası yanık iz var mı bak. Multimetre ile VCC raillerini ölç önce.",
+      "done": false,
+      "created_at": 1712000001.0,
+      "due_at": 1712200000.0,
+      "priority": 1
+    },
+    {
+      "id": "1712000002000",
+      "title": "Tang Nano 9K CRT saati — video sinyal testi",
+      "note": "R-2R DAC çıkışını osiloskopla kontrol et. 240p NTSC composite hedef. Sync pulse genişliği 4.7µs olmalı.",
+      "done": false,
+      "created_at": 1712000002.0,
+      "due_at": 1712500000.0,
+      "priority": 1
+    },
+    {
+      "id": "1712000003000",
+      "title": "HID + DDC/CI daemon'ı C'ye migrate et",
+      "note": "VS 2022 Community — Desktop C++ workload ekle. REALTIME_PRIORITY_CLASS, OSD overlay, HID read loop. Python prototip çalışıyor.",
+      "done": false,
+      "created_at": 1712000003.0,
+      "due_at": 1712600000.0,
+      "priority": 1
+    },
+    {
+      "id": "1712000004000",
+      "title": "Immich kütüphanesini tara — duplicate temizliği",
+      "note": "PS2/PS3 ISO klasörleri hariç tut. Duplicate Cleaner Pro raporu var, manuel review lazım.",
+      "done": false,
+      "created_at": 1712000004.0,
+      "due_at": null,
+      "priority": 2
+    },
+    {
+      "id": "1712000005000",
+      "title": "Pong blog yazısını yayınla",
+      "note": "Tang Nano 9K HDMI Pong — TTL gate diyagramları ve Gowin EDA notları eklenecek. Blogger HTML formatı: h2/p/ul, custom CSS yok.",
+      "done": true,
+      "created_at": 1711000005.0,
+      "due_at": null,
+      "priority": 2
+    },
+    {
+      "id": "1712000006000",
+      "title": "TOSEC Amiga screenshotter — SQLite şeması",
+      "note": "tosec-screenshotter projesi. FS-UAE/WinUAE kontrol, HTML galeri çıktısı. Önce disk image parse modülü.",
+      "done": false,
+      "created_at": 1712000006.0,
+      "due_at": null,
+      "priority": 2
+    },
+    {
+      "id": "1712000007000",
+      "title": "cpp-sound-visualizer — shader auto-discovery test",
+      "note": "C++17 std::filesystem ile /shaders klasörü taranacak. CRT GLSL shader yükleniyor mu kontrol et.",
+      "done": true,
+      "created_at": 1710000007.0,
+      "due_at": null,
+      "priority": 3
+    },
+    {
+      "id": "1712000008000",
+      "title": "SteelSeries Engine 3 bat dosyasını güncelle",
+      "note": "USBDeview reset + Engine 3 restart combo. Rival 100 bağlantı kesme sorunu tekrar mı çıktı?",
+      "done": true,
+      "created_at": 1710500008.0,
+      "due_at": null,
+      "priority": 3
+    },
+    {
+      "id": "1712000009000",
+      "title": "Polymarket bot — Kelly Criterion pozisyon boyutu",
+      "note": "Dry-run modda 3 gün çalıştır. FastAPI dashboard P&L grafiği eksik. SQLite'ta açık pozisyonlar logs tablosuna yazılıyor.",
+      "done": false,
+      "created_at": 1712000009.0,
+      "due_at": 1712800000.0,
+      "priority": 2
+    },
+    {
+      "id": "1712000010000",
+      "title": "NCR 386XV — IDE to CF kart adaptörü sipariş et",
+      "note": "44-pin IDE → CF Type I. SB16 ISA için IRQ 5, DMA 1. BIOS'ta LBA mı yoksa CHS mı destekliyor kontrol et.",
+      "done": false,
+      "created_at": 1712000010.0,
+      "due_at": 1713000000.0,
+      "priority": 3
+    },
+    {
+      "id": "1712000011000",
+      "title": "Amiga 500 recap listesini çıkar",
+      "note": "Agnus, Paula, Denise yakınındaki elektrolitler. Nichicon FM serisi tercih. 10µF 16V ve 47µF 16V lazım.",
+      "done": false,
+      "created_at": 1712000011.0,
+      "due_at": null,
+      "priority": 2
+    },
+    {
+      "id": "1712000012000",
+      "title": "todo-tui GitHub repo push",
+      "note": "todo2_5.py → todo_tui.py olarak temizle. .gitignore: todos.json, config.json, *.svg. README güncelle.",
+      "done": false,
+      "created_at": 1712100012.0,
+      "due_at": 1712200000.0,
+      "priority": 1
+    }
+  ]
+}
